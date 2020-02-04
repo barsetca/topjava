@@ -19,6 +19,10 @@ public class UserMeal {
         return dateTime;
     }
 
+
+
+
+
     public String getDescription() {
         return description;
     }
